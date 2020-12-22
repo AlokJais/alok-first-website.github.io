@@ -199,6 +199,10 @@ a.readmore::after{
     .news-post{
         margin-bottom: 30px;
     }
+    /* #menu li a {
+        padding: 2px 2px;
+    } */
+    /* Write media query for 768-992 for menu list item */
 }
 @media(max-width: 768px){
     #logo{
@@ -207,10 +211,6 @@ a.readmore::after{
     }
     #menu{
         text-align: center;
-    }
-
-    #menu li a {
-        padding: 15px 5px;
     }
 
     .banner-title{
