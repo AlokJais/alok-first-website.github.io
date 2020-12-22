@@ -208,6 +208,11 @@ a.readmore::after{
     #menu{
         text-align: center;
     }
+
+    #menu li a {
+        padding: 15px 5px;
+    }
+
     .banner-title{
         padding-top: 0;
     }
